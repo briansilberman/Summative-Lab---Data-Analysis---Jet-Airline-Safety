@@ -12,8 +12,15 @@ between groups.
 
 In this summative assessment, you will demonstrate your ability to:
 
-Use Pandas to load, inspect, and clean the dataset appropriately.
-Transform relevant columns to create measures that address the problem at hand.
-Conduct EDA: visualization and statistical measures to understand the structure of the data systematically.
-Recommend a set of airplanes that conform to the client's request and identify at least two factors contributing to airplane safety. You must provide supporting 
+- Use Pandas to load, inspect, and clean the dataset appropriately.
+- Transform relevant columns to create measures that address the problem at hand.
+- Conduct EDA: visualization and statistical measures to understand the structure of the data systematically.
+- Recommend a set of airplanes that conform to the client's request and identify at least two factors contributing to airplane safety. You must provide supporting
 evidence (visuals, summary statistics, tables) for each claim you make.
+
+### Summary of Analysis Findings:
+After completing my analysis, Boeing and Airbus are both very injury-safe manufacturers for small planes, and Boeing and Embraer can be relied upon for large 
+planes. The makers safest from airplane destruction are also Boeing and Embraer for large planes, and Luscombe, Stinson, and Taylorcraft for small planes. Many of 
+the popular airplane models are safe from injury, including Boeing 777s, Boeing 787s, Airbus A320s, Airbus A321s, and Airbus A330s. Bad weather causes higher risk 
+of serious or fatal injuries during crashes, as well as higher risk for airplane destruction in the event of a crash landing. The most dangerous flight phases are 
+maneuvering, climb, and descent.
